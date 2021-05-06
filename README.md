@@ -1,5 +1,8 @@
 # urbanChemFoam-1.0
 
+Reference to GMD article:  https://gmd.copernicus.org/preprints/gmd-2020-432/
+DOI for on Zenodo:  http://doi.org/10.5281/zenodo.4384731
+
 `urbanChemFoam` is a weakly compressible, reactive solver developed based on the open source finite volume computational continuum mechanics framework OpenFOAM (Weller et al., Comput Phys 12:620-631, 1998).  Additional components have been introduced in conjunction to provide characteristics of a chemical transport model for an infinite street canyon.  These are:
 
   Module Name                     | Description
